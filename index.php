@@ -4,3 +4,5 @@
     // teste do teste
 
     echo 'teste';
+
+    echo 'teste 2';
