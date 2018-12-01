@@ -18,4 +18,5 @@ array_push($pessoas, array(
 
 //print_r($pessoas);
 
+// array >> json
 echo json_encode($pessoas);
