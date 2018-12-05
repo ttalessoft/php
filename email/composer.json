@@ -1,0 +1,17 @@
+{
+    "name": "ttalessoft/email",
+    "description": "Aplicacao de envio de e-mail",
+    "type": "project",
+    "license": "gnu",
+    "authors": [
+        {
+            "name": "ttalessoft",
+            "email": "ttalessoft@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+
+        "phpmailer/phpmailer":"6.*"
+    }
+}

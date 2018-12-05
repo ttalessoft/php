@@ -1,0 +1,17 @@
+{
+    "name": "ttalessoft/composer",
+    "description": "Aprendendo a trabalhar com composer, primeiro projeto de testes.",
+    "type": "project",
+    "license": "Null",
+    "authors": [
+        {
+            "name": "ttalessoft",
+            "email": "ttalessoft@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "monolog/monolog":"1.*",
+        "php-console/php-console":"*"
+    }
+}

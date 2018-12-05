@@ -1,0 +1,17 @@
+{
+    "name": "ttalessoft/rain-tpl",
+    "description": "Trabalhando com templates de páginas com o RainTPL",
+    "type": "project",
+    "license": "gnu",
+    "authors": [
+        {
+            "name": "ttalessoft",
+            "email": "ttalessoft@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+    "rain/raintpl":">=3.0.0",
+    "phpmailer/phpmailer":"6.*"
+    }
+}
